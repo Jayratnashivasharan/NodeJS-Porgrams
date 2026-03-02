@@ -1,0 +1,4 @@
+A Node.js file is a JavaScript file (typically with a .js or .mjs extension) 
+that contains code executed by the Node.js runtime, usually on a server, outside of a web browser.
+These files use JavaScript syntax and interact with the server's file system and other system 
+resources via built-in modules. 
